@@ -9,9 +9,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfik8&show_icons=true&theme=radical)  
-
----
-
 🌎 [Portfolio](https://mushfik.pages.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/mushfik8/)
