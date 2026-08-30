@@ -10,7 +10,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfikurrahman&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfik8&show_icons=true&theme=radical)  
 
 ---
 
