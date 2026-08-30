@@ -9,13 +9,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-- 🎬 [Cinefreak](https://cinefreak.net) – Online movie platform  
-- 🎉 Novo Event *(in progress)* – Event sharing & booking app  
-- 🍔 Cafeteria Management System – Java Swing project  
-
----
-
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfikurrahman&show_icons=true&theme=radical)  
 
