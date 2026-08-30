@@ -9,4 +9,4 @@
 
 ---
 
-🌎 [Portfolio](https://mushfik.pages.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/mushfik8/)
+🌎 [Portfolio](https://mushfik.pages.dev) 
