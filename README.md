@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mushfikur Rahman  
+# 👋 Hi, I'm Mushfikur Rahman  
 
 🚀 Developer | Web Enthusiast | CSE Student  
 
@@ -9,4 +9,16 @@
 
 ---
 
-🌎 [Portfolio](https://mushfik.pages.dev) 
+## 🎓 Certifications
+
+### National Skills Certificate: Web Design and Development for Freelancing (Level 3)
+**Issued by:** National Skills Development Authority (NSDA), Bangladesh  
+**Framework:** Bangladesh National Qualification Framework (BNQF)
+
+📄 [View Certificate (PDF)](./certificates/Certificate_Mushfikur Rahman.pdf) &nbsp;|&nbsp; 
+
+✅ [Verify Online](https://www.skillsportal.gov.bd/#/rpl/certificate-view?rplCandidateId=KpnrZddSYea0DGgBgKMgYh31DgEK54o3xV1lgICQMfxd8mciiAHUzb2maIOzStKn3-8)
+
+---
+
+🌎 [Portfolio](https://mushfik.pages.dev)
