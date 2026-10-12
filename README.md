@@ -15,7 +15,7 @@
 **Issued by:** National Skills Development Authority (NSDA), Bangladesh  
 **Framework:** Bangladesh National Qualification Framework (BNQF)
 
-📄 [View Certificate (PDF)](./certificates/Certificate_Mushfikur Rahman.pdf) &nbsp;|&nbsp; 
+📄 [View Certificate (PDF)](https://github.com/Mushfik8/Mushfik8/blob/main/certificates/Certificate_Mushfikur%20Rahman.pdf) &nbsp;|&nbsp; 
 
 ✅ [Verify Online](https://www.skillsportal.gov.bd/#/rpl/certificate-view?rplCandidateId=KpnrZddSYea0DGgBgKMgYh31DgEK54o3xV1lgICQMfxd8mciiAHUzb2maIOzStKn3-8)
 
